@@ -1,4 +1,4 @@
-# Solutions Array | Business Model <br> <a href="https://solutionsarray.github.io/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/" target="_blank">https://solutionsarray.github.io/</a>
+# Solutions Array | Business Model <br> <a href="https://solutionsarray.github.io/business-model/" target="_blank">⬇</a> <br> <a href="https://solutionsarray.github.io/business-model/" target="_blank">https://solutionsarray.github.io/business-model/</a>
 
 <div id="stack">
         <p align="center">
