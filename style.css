@@ -1,0 +1,58 @@
+/*-- - - - - - - - - - - - - - - */
+/*-- SA <style> Properties   --*/
+/*-- - - - - - - - - - - - - - - */
+
+#solarray {
+  background: #2C2C2C;
+}
+
+body {
+  font-family: system-ui;
+  background: #2C2C2C;
+  color: black;
+  text-align: center;
+}
+
+#logo {
+  font-family: system-ui;
+  color: white;
+  text-align: center;
+}
+
+.focus {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7400A9;
+  font-size: 40px;
+}
+
+b, strong {
+  color: #7400A9;
+  font-weight: 900;
+  font-size: 35px;
+}
+
+#services {
+  font-family: system-ui;
+  bac kground: #E3E6E8;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 0px;
+}
+
+/*-- - - - - - - - - - - - - - - */
+/*-- Impreza <style> Properties -- */
+/*-- - - - - - - - - - - - - - - */
+
+element.style {
+  text-align: center;
+} 
