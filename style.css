@@ -23,12 +23,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #fef90a;
+  color: #7400A9;
   font-size: 40px;
 }
 
 b, strong {
-  color: #fef90a;
+  color: #7400A9;
   font-weight: 900;
   font-size: 35px;
 }
